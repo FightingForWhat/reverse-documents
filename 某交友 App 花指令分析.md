@@ -1,15 +1,13 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/PyKtsRV0WJaqm8APpJNOMw)
 
 **观前提示：**  
 
 **本文章仅供学习交流, 切勿用于非法通途, 如有侵犯贵司请及时联系删除**
 
 ```
-样本：aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMTRWbXVfeHlDN2lGYk9qYjBtOHpYc3c/cHdkPWxpbm4=
+样本：soul -> libsoulpower.so
 
 ```
 
-![](https://mmbiz.qpic.cn/mmbiz_png/Em7AaVMQYsNgowvdHibr4SBZS4yxFr4iclp7Su1076WwNFQDZEHrmzNaoibEAgy4VZnibt8XPNURvCDsKuABgI2EWg/640?wx_fmt=png)
 
 0x1 花指令分析
 =========
